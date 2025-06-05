@@ -69,7 +69,7 @@ export default function Hero() {
               transition={{ duration: 0.3 }}
             >
               <Image
-                src="/images/parrot.png"
+                src="/images/entire-family.png"
                 alt="Group"
                 fill
                 className="object-cover object-center"
